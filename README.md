@@ -10,7 +10,7 @@ Key Features:
 
 🗂️ View a list of saved notes in an organized format
 
-🔍 Search functionality (optional enhancement)
+🔍 Search functionality
 
 💾 100% offline access using Room (SQLite abstraction)
 
